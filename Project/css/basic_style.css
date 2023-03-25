@@ -9,8 +9,8 @@ h1{
 }
 
 .container{
-    width: 450;
-    height: 450;
+    width: 450px;
+    height: 450px;
     background-color: #faebd7;
     border: 2px solid black;
     border-radius: 5%;
