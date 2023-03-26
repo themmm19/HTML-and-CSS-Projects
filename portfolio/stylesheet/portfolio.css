@@ -183,6 +183,7 @@ footer {
 .Video_Text {
     background: rgba(235, 54, 54, 0.25); /* This provides a semi-transparent background for the text to sit over */
     color: white; /* Makes the font color white */
+    text-shadow: 1px 1px 2px black;
     width: 100%; /* Ensures the video-text container fills the width of the video */
     padding: 20px; /* This adds padding around the video-text container so that the background goes slightly beyond the text */
     position: relative; /* This sets the text relative to its normal positioning, allowing us to use the animation below */
